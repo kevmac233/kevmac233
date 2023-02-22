@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kevin, a <a href="https://linkedin.com/in/kevin-macaspac-b64a1924a">Civil Engineer </a>☺</h1>
+<h1>Hi, I'm Kevin, a <a href="https://linkedin.com/in/kevin-macaspac-b64a1924a">Civil Engineer </a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
