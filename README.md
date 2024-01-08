@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kevin, a <a href="https://linkedin.com/in/kevin-macaspac-b64a1924a">Data Center Technician </a></h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Cybersecurity Project:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/kevmac233/osticket-prereqs)
