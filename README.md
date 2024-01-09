@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Project:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/kevmac233/osticket-prereqs)
+- <b>Azure Project</b>
+  - [Creating a Live SOC/Honeynet in Azure](https://github.com/kevmac233/Azure-SOC)
   - [osTicket: Post-Installation Configuration](https://github.com/kevmac233/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/kevmac233/ticket-lifecycle)
 - <b>Microsoft Azure</b>
