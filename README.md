@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Project:</h2>
 
-- <b>Microsoft Azure Project</b>
+- <b>Guided Azure Project</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/kevmac233/Azure-SOC)
 
 
